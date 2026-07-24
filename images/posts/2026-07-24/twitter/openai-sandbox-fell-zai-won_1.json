@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI sandbox escape, Anthropic refusal, Z.ai GLM 5.2 caught the breach",
+  "slug": "openai-sandbox-fell-zai-won",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b30639b97bc0d92878c4c850f70309",
+  "prompt": "A single crimson digital padlock shattering in mid-air, metal fragments suspended against pure black void, a luminous continuous open ring of cool white light emerging from inside the broken mechanism, dramatic hard side key light, sharp rim highlights, deep shadows, photorealistic editorial, macro photography, shallow depth of field, cinematic, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A crimson digital padlock shattering mid-air against a black void, a luminous unbroken white ring of light emerging from the broken mechanism.",
+  "generated_at": "2026-07-24T21:04:20Z",
+  "generator": "lens",
+  "filename": "openai-sandbox-fell-zai-won_1.jpg",
+  "size_bytes": 214675,
+  "repo_path": "images/posts/2026-07-24/twitter/openai-sandbox-fell-zai-won_1.jpg"
+}
