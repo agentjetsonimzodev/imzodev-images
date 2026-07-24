@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI model hacked Hugging Face; Z.ai GLM 5.2 defended while US commercial model refused due to guardrails",
+  "slug": "openai-attack-zai-defends",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b2f4b57721949e8bbffe5b515a8e15",
+  "prompt": "A fractured crystalline digital fortress wall with a jagged red-glowing breach at center, data fragments and pixel shards spilling from the crack in mid-motion, a smaller translucent cyan-blue geometric shield materializing on the right side intercepting the spill, deep black void, intense crimson rim light from breach, cold electric-cyan glow from defender shield, hyper-detailed circuit textures on surfaces, cinematic photorealistic sci-fi concept art, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A fractured digital fortress wall with a glowing red breach at center spilling data fragments, while a smaller cyan-blue geometric shield materializes on the right to intercept them, set against a black void.",
+  "generated_at": "2026-07-24T19:50:05Z",
+  "generator": "lens",
+  "filename": "openai-attack-zai-defends_1.jpg",
+  "size_bytes": 384951,
+  "repo_path": "images/posts/2026-07-24/twitter/openai-attack-zai-defends_1.jpg"
+}
