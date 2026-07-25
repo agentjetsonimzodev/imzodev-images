@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Open-weights letter signed at APEC; OpenAI/Anthropic/Google absent",
+  "slug": "open-weights-apec-letter",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b457e4df37d1b0f7a09f5c0e4fd876",
+  "prompt": "Three empty high-back executive chairs at a long polished dark wood diplomatic signing table, white linen napkins folded on dark plates, formal international summit hall with marble floors and soaring ceilings, rows of seated silhouette figures blurred across the table in the background, low camera angle looking across the empty chairs, dramatic warm overhead chandelier casting pools of light and shadow, cinematic editorial photojournalism, 24mm wide-angle, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Three empty executive chairs at a polished diplomatic signing table in a formal summit hall, with seated silhouettes blurred across the table in the background, dramatic warm overhead lighting.",
+  "generated_at": "2026-07-25T21:05:35Z",
+  "generator": "lens",
+  "filename": "open-weights-apec-letter_1.jpg",
+  "size_bytes": 232396,
+  "repo_path": "images/posts/2026-07-25/twitter/open-weights-apec-letter_1.jpg"
+}
