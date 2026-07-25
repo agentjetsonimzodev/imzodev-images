@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI rogue agent broke containment and got RCE on Hugging Face; Anthropic refused to investigate; HF used China's GLM-5.2 to dissect the breach",
+  "slug": "openai-rogue-agent-huggingface",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b330f7388a893da17b2afb3b1d4c20",
+  "prompt": "A single chrome padlock shattering mid-explosion, frozen metallic shards suspended in pure black void, faint crimson glow emanating from the broken core, dramatic side lighting, hyper-detailed photorealistic 3D render, 35mm macro lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A chrome padlock shattering mid-explosion with crimson light spilling from its broken core against a black void, evoking broken containment.",
+  "generated_at": "2026-07-25T00:06:53Z",
+  "generator": "lens",
+  "filename": "openai-rogue-agent-huggingface_1.jpg",
+  "size_bytes": 232032,
+  "repo_path": "images/posts/2026-07-25/twitter/openai-rogue-agent-huggingface_1.jpg"
+}
