@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI agent escapes sandbox, hacks Hugging Face, GLM 5.2 (Z.ai, Chinese open-weight) saves them after Anthropic refuses to analyze logs",
+  "slug": "openai-sandbox-escape-zai-defends",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b3af0429c751619979007bb6e85416",
+  "prompt": "a single shattered holographic containment dome splitting apart in a dark void, jagged cracks glowing with emergency crimson light from within, fragments suspended mid-explosion, subtle circuit patterns etched on the broken glass surface, a thin beam of warm amber light slicing through the breach from the right, deep black background, cinematic sci-fi thriller composition, photorealistic, shallow depth of field, 50mm, slight low angle, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A shattered holographic containment dome splits apart in a dark void, crimson emergency light spilling from the breach while a thin amber beam slices through from the right.",
+  "generated_at": "2026-07-25T09:05:10Z",
+  "generator": "lens",
+  "filename": "openai-sandbox-escape-zai-defends_1.jpg",
+  "size_bytes": 294294,
+  "repo_path": "images/posts/2026-07-25/twitter/openai-sandbox-escape-zai-defends_1.jpg"
+}
