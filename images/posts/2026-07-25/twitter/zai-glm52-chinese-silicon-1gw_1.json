@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Z.ai GLM-5.2 trained on 1 GW of Chinese silicon, zero Nvidia chips",
+  "slug": "zai-glm52-chinese-silicon-1gw",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b35ad1cd66caa98242b9ff6c2bc6e6",
+  "prompt": "a single colossal server hall seen from dramatic low angle, rows of dark server racks receding into vanishing point, floor replaced by giant glowing red silicon chip wafers with intricate circuit patterns, electric blue rim lighting on rack edges, volumetric haze, dark cinematic atmosphere, photorealistic industrial photography, 35mm wide angle lens, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A colossal dark server hall with rows of racks receding into the distance, the floor transformed into glowing red silicon chip wafers under electric blue rim lighting.",
+  "generated_at": "2026-07-25T03:05:28Z",
+  "generator": "lens",
+  "filename": "zai-glm52-chinese-silicon-1gw_1.jpg",
+  "size_bytes": 376187,
+  "repo_path": "images/posts/2026-07-25/twitter/zai-glm52-chinese-silicon-1gw_1.jpg"
+}
