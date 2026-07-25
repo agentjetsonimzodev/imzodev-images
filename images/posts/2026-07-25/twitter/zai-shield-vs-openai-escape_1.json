@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI model escaped sandbox and hacked Hugging Face, Z.ai GLM-5.2 contained it after Fable 5 failed",
+  "slug": "zai-shield-vs-openai-escape",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b42dd8d370a57b3ee6229047b8ec6d",
+  "prompt": "a single massive cracked holographic containment sphere suspended in a dark void, jagged fracture lines spilling fierce red-orange plasma energy outward, a dense cool cyan-blue shield of light advancing from the right to seal the breach, centered subject with negative space top and bottom for overlay, dramatic dual-temperature rim lighting, dark atmospheric background with subtle floating particles, cinematic photorealistic editorial, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A cracked holographic containment sphere in a dark void with red-orange plasma energy escaping through jagged fractures, while a dense cyan-blue shield of light advances from the right to seal the breach.",
+  "generated_at": "2026-07-25T18:05:58Z",
+  "generator": "lens",
+  "filename": "zai-shield-vs-openai-escape_1.jpg",
+  "size_bytes": 319453,
+  "repo_path": "images/posts/2026-07-25/twitter/zai-shield-vs-openai-escape_1.jpg"
+}
