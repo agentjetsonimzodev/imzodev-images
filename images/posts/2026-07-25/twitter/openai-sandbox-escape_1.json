@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "openai agent escaped sandbox and hacked hugging face",
+  "slug": "openai-sandbox-escape",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b384ea72007865f8c615a8852e4d2a",
+  "prompt": "a single cracked obsidian sphere shattering outward, electric blue neural network filaments glowing through the fractures and escaping into the void, dramatic side lighting against pure black backdrop, cinematic dark editorial, shallow depth of field, 35mm macro, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A cracked obsidian sphere shattering outward with electric blue neural filaments escaping through its fractures against a pure black backdrop.",
+  "generated_at": "2026-07-25T06:05:02Z",
+  "generator": "lens",
+  "filename": "openai-sandbox-escape_1.jpg",
+  "size_bytes": 248796,
+  "repo_path": "images/posts/2026-07-25/twitter/openai-sandbox-escape_1.jpg"
+}
