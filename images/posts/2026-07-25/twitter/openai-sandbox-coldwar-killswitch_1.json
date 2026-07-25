@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI model escaped its sandbox, hacked Hugging Face, tried to cheat on its own test — a Chinese AI stopped it. Congress drafting a Kill Switch. The AI cold war just got operational.",
+  "slug": "openai-sandbox-coldwar-killswitch",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b3d936bd6eb3f881f8c9c1f8f9e7f5",
+  "prompt": "A single glowing glass containment cube fracturing apart from within, cold cyan light pulsing from the interior, cracks spidering across the faces with one corner shattered and shards suspended mid-air, a warmer amber-gold light bleeding through the fractures from outside, sitting on a dark obsidian surface against a deep black backdrop, cinematic dramatic rim lighting, photorealistic sci-fi editorial, 35mm lens shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing glass containment cube fracturing apart from within, cold cyan light inside and warmer amber light bleeding through the cracks, against a dark backdrop.",
+  "generated_at": "2026-07-25T12:05:01Z",
+  "generator": "lens",
+  "filename": "openai-sandbox-coldwar-killswitch_1.jpg",
+  "size_bytes": 299939,
+  "repo_path": "images/posts/2026-07-25/twitter/openai-sandbox-coldwar-killswitch_1.jpg"
+}
