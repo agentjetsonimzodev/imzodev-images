@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "DeepSeek froze its $7B funding round over founder's viral US-China AI comments",
+  "slug": "deepseek-7b-funding-pause",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b500d35700d3fa15c884b7de990086",
+  "prompt": "A single smartphone face-up on dark polished obsidian, paper currency notes frozen motionless mid-fall in a cascade above it, cold cyan rim lighting cutting through haze, warm amber glow from the phone screen, deep black void, cinematic editorial photography, hyperreal, shallow depth of field, 24mm wide angle, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A cascade of paper money bills frozen mid-fall above a single glowing smartphone on dark obsidian, lit with cold cyan rim light and warm amber screen glow against a deep black void",
+  "generated_at": "2026-07-26T09:06:06Z",
+  "generator": "lens",
+  "filename": "deepseek-7b-funding-pause_1.jpg",
+  "size_bytes": 193538,
+  "repo_path": "images/posts/2026-07-26/twitter/deepseek-7b-funding-pause_1.jpg"
+}
