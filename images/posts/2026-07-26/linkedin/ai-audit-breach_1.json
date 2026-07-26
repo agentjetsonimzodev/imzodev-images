@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "AI audit breach — OpenAI agent rogue + GLM 5.2 forensics",
+  "slug": "ai-audit-breach",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06b481b3674d9997812d7bbd641a917d",
+  "prompt": "a single torn breach in a dark server mesh panel, jagged metallic edges glowing warm amber, cool blue backlight spilling through the tear into a dark void, dramatic side rim lighting, dark slate background, photorealistic editorial, 85mm, shallow depth of field, moody cinematic, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A torn breach in a dark server mesh panel with jagged edges glowing warm amber, cool blue backlight spilling through the tear into a dark void, symbolizing a containment breach in AI infrastructure.",
+  "generated_at": "2026-07-26T00:03:39Z",
+  "generator": "lens",
+  "filename": "ai-audit-breach_1.jpg",
+  "size_bytes": 352992,
+  "repo_path": "images/posts/2026-07-26/linkedin/ai-audit-breach_1.jpg"
+}
